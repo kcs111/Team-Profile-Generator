@@ -12,7 +12,7 @@ App work
 
 Main page:
 
-/Users/kylascott/Desktop/Team Profile Generator/Team-Profile-Generator/main page.jpg
+https://github.com/kcs111/Team-Profile-Generator/blob/main/main%20page.jpg
 
 
 
