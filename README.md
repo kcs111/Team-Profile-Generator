@@ -1,4 +1,4 @@
-# Team-Profile-Generator
+## Team-Profile-Generator
 
 Description:
 This app take information about emplyees and makes a HTMl webpage based on that information and displays summaries for each person.
@@ -10,24 +10,23 @@ App working
 
 
 
-Main page:
-
-https://github.com/kcs111/Team-Profile-Generator/blob/main/main%20page.jpg
+## Main page:
 
 
 
-Installation
+
+## Installation
 
 Run:
 npm i
 
-Usage
+## Usage
 
 node app.js
 
-user will be prmorted for information from their GitHub userm=name and other information
+user will be prompted for information from their GitHub userm=name and other information
 
 
-Repository
+## Repository
 
 [Project Repo](https://github.com/kcs111/Team-Profile-Generator)
