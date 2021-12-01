@@ -29,4 +29,5 @@ user will be prompted for information from their GitHub userm=name and other inf
 
 ## Repository
 
-[Project Repo](https://github.com/kcs111/Team-Profile-Generator)
+1. [Project Repo](https://github.com/kcs111/Team-Profile-Generator)
+2. [Video](https://watch.screencastify.com/v/fUQH3ecRGUqyIWRfZPDV)
